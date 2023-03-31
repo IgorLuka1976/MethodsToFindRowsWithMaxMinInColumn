@@ -1,2 +1,2 @@
 # SelectMethodsMaxMinByDate
-Select Methods Rows to find row depending on performance, included Max or Min in date column 
+Methods To Find Rows with Max or Min data in column ,depending on performance
